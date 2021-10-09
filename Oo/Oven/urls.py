@@ -16,10 +16,11 @@ Including another URLconf
 from django.contrib import admin
 from django.urls import path, include
 from .sources.elastic import *
+from Oven import views
 
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('', include('theme.urls')),
-
+    path('get/', views.searchElastic),
     # path('search/', )
 ]

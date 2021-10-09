@@ -2,14 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="90551f41-e609-4ae3-aeba-0c5332106710" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Oven/sources/elastic.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Oven/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/main.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/index2.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Oven/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Oven/settings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Oven/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/Oven/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/theme/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/theme/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Oven/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/Oven/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/main.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/main.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +36,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/templates" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -46,6 +45,9 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/templates" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/templates" />
       <recent name="$PROJECT_DIR$" />
@@ -85,7 +87,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1629025458322</updated>
-      <workItem from="1629025488198" duration="6313000" />
+      <workItem from="1629025488198" duration="6817000" />
+      <workItem from="1629077962582" duration="2727000" />
+      <workItem from="1629089591596" duration="2010000" />
+      <workItem from="1629790014565" duration="656000" />
+      <workItem from="1631339024468" duration="3000" />
     </task>
     <servers />
   </component>
@@ -102,5 +108,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>

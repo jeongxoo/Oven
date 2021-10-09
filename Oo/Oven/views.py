@@ -3,16 +3,17 @@ from .sources.elastic import *
 
 def searchElastic(request):
     es = connect()
-    index = "ls_seoul_rank_info_idx"
+    index = "d_search_test_1"
     query = {
         "query" : {
             "match" : {
-                "gu_name" : "노원구"
+                "core.title" : "코로나"
             }
         }
     }
 
     json = search(client = es, index = index, body = query)
-    fp = json["hits"]["hits"][0]["_source"]["final_point"]
-    rf = json["hits"]["hits"][0]["_source"]["rank_final"]
+    # fp = json["hits"]["hits"][0]["_source"]["final_point"]
+    # rf = json["hits"]["hits"][0]["_source"]["rank_final"]
+    print(json)
     return fp, rf
