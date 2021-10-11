@@ -20,8 +20,6 @@
 - 게임 플레이 녹화
 - 녹화 영상 기반 데이터 추출
 <br>
-<br>
-<br>
 
 # 🖌 시각화 자료 예시
 <img width="561" alt="스크린샷 2021-10-11 오후 2 54 03" src="https://user-images.githubusercontent.com/56291884/136739804-e771b13f-4efe-4357-b76e-0c8a57ebf08d.png">
